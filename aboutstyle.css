@@ -10,7 +10,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background: url("C:\Users\Asus\Documents\webpage\luxmundiscup.jpg");
+	background: url("luxmundiscup.jpg");
 	background-size: cover;
 	background-position: center;
 	position: relative;
@@ -86,7 +86,7 @@ body {
 
 
 .feed {
-	background: url("C:\Users\Asus\Documents\webpage\luxmundiscup.jpg");
+	background: url("luxmundiscup.jpg");
 }
 
 .feed h1 {
